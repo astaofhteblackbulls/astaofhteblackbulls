@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Pratik Singh
 
-<!--
-**astaofhteblackbulls/astaofhteblackbulls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Product-Focused Software Developer
 
-Here are some ideas to get you started:
+🎓 Final Year B.Tech AI & ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🌱 Currently learning DSA
+- 💻 Interested in Software Development
+- 🚀 Building real-world digital solutions
+- 📍 Mathura, India
+
+## Tech Stack
+
+- Python
+- SQL
+- Git
+- GitHub
+- TypeScript
+- REST APIs
