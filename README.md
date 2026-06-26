@@ -1,6 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pratik+Singh;Product-Focused+Software+Developer;AI+%26+ML+Undergraduate;Building+Real-World+Software)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=astaoftheblackbulls&style=for-the-badge)
+<!-- 1. Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pratik+Singh;Product-Focused+Software+Developer;AI+%26+ML+Undergraduate;Building+Real-World+Software" />
+</p>
 
+<!-- 2. Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=astaoftheblackbulls&style=for-the-badge" />
+</p>
+
+<!-- 3. About Me -->
 ## 👨‍💻 About Me
 
 - 🎓 Final-year B.Tech student specializing in AI & ML
@@ -18,6 +26,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 🚀 Featured Projects
+
+| Project | Tech |
+|---------|------|
+| 🛡️ AEGIS | Python, ML |
+| 🏛️ Sarai | React, TypeScript |
+| 🌐 Portfolio | React |
+| 💝 Heart Junction | React, Firebase |
+| 📖 LeetCode Solutions | Python |
 
 ## 📊 GitHub Stats
 
